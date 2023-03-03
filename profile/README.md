@@ -30,9 +30,21 @@ Promo 1 Module de Spécialisation Développeur.se Intégrateur.se - Boulogne sur
 | Developers | GitHub | About-me |
 | :----: | :----: | :----: |
 |  |  | ![img_html](./profile/img/html.svg)&nbsp;![img_css](./profile/img/css.svg) |
-| Dev 1 | ![🔗](https://github.com/pseudo) |  |
-| Dev 2 | ![🔗](https://github.com/pseudo) |  |
-| ... | ![🔗](https://github.com/pseudo) |  |
+| Alex | <a href="https://github.com/JunkBezoul">🔗</a> |  |
+| Antoine | <a href="https://github.com/6Yoru6">🔗</a> |  |
+| Julie | <a href="https://github.com/Julie-Charles16">🔗</a> |  |
+| Eric | <a href="https://github.com/Ericdsr">🔗</a> |  |
+| Gregory | <a href="https://github.com/Gregory-Druelle">🔗</a> |  |
+| Cédric | <a href="https://github.com/DASyhef">🔗</a> |  |
+| Karl | <a href="https://github.com/Karl-Gavois">🔗</a> |  |
+| Manon | <a href="https://github.com/Manon2111">🔗</a> |  |
+| Kévin H | <a href="https://github.com/KevHelle">🔗</a> |  |
+| Kévin L | <a href="https://github.com/kevin-ledez">🔗</a> |  |
+| Maryline | <a href="https://github.com/Marylinelesaffre">🔗</a> |  |
+| Christian | <a href="https://github.com/ChristianJulien">🔗</a> |  |
+| Christopher | <a href="https://github.com/ChristopherNl">🔗</a> |  |
+| Geoffrey | <a href="https://github.com/Geoffrey184">🔗</a> |  |
+| Valentine | <a href="https://github.com/lalalex62">🔗</a> |  |
 
 ## Briefs
 
