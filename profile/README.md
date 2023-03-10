@@ -33,6 +33,7 @@ Promo 1 Module de Spécialisation Développeur.se Intégrateur.se - Boulogne sur
 | Alex | <a href="https://github.com/JunkBezoul">🔗</a> |  |
 | Antoine | <a href="https://github.com/6Yoru6">🔗</a> |  |
 | Julie | <a href="https://github.com/Julie-Charles16">🔗</a> |  |
+| Théo | <a href="https://github.com/Theo02-12">🔗</a> |  |
 | Eric | <a href="https://github.com/Ericdsr">🔗</a> |  |
 | Gregory | <a href="https://github.com/Gregory-Druelle">🔗</a> |  |
 | Cédric | <a href="https://github.com/DASyhef">🔗</a> |  |
@@ -41,7 +42,6 @@ Promo 1 Module de Spécialisation Développeur.se Intégrateur.se - Boulogne sur
 | Kévin H | <a href="https://github.com/KevHelle">🔗</a> |  |
 | Kévin L | <a href="https://github.com/kevin-ledez">🔗</a> |  |
 | Maryline | <a href="https://github.com/Marylinelesaffre">🔗</a> |  |
-| Christian | <a href="https://github.com/ChristianJulien">🔗</a> |  |
 | Christopher | <a href="https://github.com/ChristopherNl">🔗</a> |  |
 | Geoffrey | <a href="https://github.com/Geoffrey184">🔗</a> |  |
 | Valentine | <a href="https://github.com/lalalex62">🔗</a> |  |
